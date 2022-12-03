@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CanChen27
-- 👀 I’m interested in programming, UI/UX design, films, manga
+- 👀 I’m interested in programming, UI/UX design
 - 🌱 H5, Vue, Nodejs, DDBB like MySql, mongoDB etc
 
 <!---
